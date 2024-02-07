@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
-<p align="left">🌱 I’m currently pursuing my Master's in Computer Science.</p>
+<p align="left">🌱 I’m currently pursuing my Master Degree in Computer Science.</p>
 
 <p align="left">👨‍💻 Check out my projects on my <a href="https://phyothinzaraung.github.io" target="_blank">portfolio</a>.</p>
 
