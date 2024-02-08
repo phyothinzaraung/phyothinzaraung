@@ -2,7 +2,7 @@
 
 <h3 align="center">Passionate Android Developer from Myanmar Seeking Opportunities in the United States</h3>
 
-<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 <p align="left">🌱 I’m currently pursuing <b>Master Degree in Computer Science</b>.</p>
 
