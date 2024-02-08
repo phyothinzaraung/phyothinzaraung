@@ -2,7 +2,7 @@
 
 <h3 align="center">Passionate Android Developer from Myanmar Seeking Opportunities in the United States</h3>
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+<img align="right" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 <p align="left">🌱 I’m currently pursuing <b>Master Degree in Computer Science</b>.</p>
 
@@ -27,4 +27,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=phyothinzaraung&show_icons=true&locale=en&layout=compact" alt="phyothinzaraung" />
 </p>
 
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=phyothinzaraung&show_icons=true&locale=en" alt="phyothinzaraung" /></p>
+<!--<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=phyothinzaraung&show_icons=true&locale=en" alt="phyothinzaraung" /></p>--!>
